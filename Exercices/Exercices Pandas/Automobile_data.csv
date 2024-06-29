@@ -7,11 +7,11 @@ index,company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepow
 5,audi,sedan,99.8,177.3,ohc,five,110,19,15250
 6,audi,wagon,105.8,192.7,ohc,five,110,19,18920
 9,bmw,sedan,101.2,176.8,ohc,four,101,23,16430
-10,bmw,sedan,101.2,176.8,ohc,four,101,23,16925
+10,bmw,sedan,101.2,176.8,n.a,four,101,23,16925
 11,bmw,sedan,101.2,176.8,ohc,six,121,21,20970
 13,bmw,sedan,103.5,189,ohc,six,182,16,30760
 14,bmw,sedan,103.5,193.8,ohc,six,182,16,41315
-15,bmw,sedan,110,197,ohc,six,182,15,36880
+15,bmw,sedan,110,197,?,six,182,15,36880
 16,chevrolet,hatchback,88.4,141.1,l,three,48,47,5151
 17,chevrolet,hatchback,94.5,155.9,ohc,four,70,38,6295
 18,chevrolet,sedan,94.5,158.8,ohc,four,70,38,6575
